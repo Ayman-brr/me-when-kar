@@ -1,0 +1,16 @@
+*{
+  
+  background-color:rgb(26, 27, 27);
+  
+}
+#gamecanvas {
+  width: 800px;
+  height: 450px;
+  background-color: aqua;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* i hate ts centering shi so much bruh 😭✌🏼*/
+}
+
