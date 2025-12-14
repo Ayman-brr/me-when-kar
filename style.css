@@ -45,3 +45,15 @@
 .tr { top: 5px; right: 0; }
 .br { bottom: 5px; right: 0; }
 
+#speed-display {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  color: white;
+  font-size: 20px;
+  background-color: rgba(0,0,0,0.5);
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+
