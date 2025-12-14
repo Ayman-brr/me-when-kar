@@ -14,3 +14,34 @@
   /* i hate ts centering shi so much bruh 😭✌🏼*/
 }
 
+.kar {
+  position: relative;
+  width: 50px;
+  height: 100px;
+  background-color: transparent;  
+}
+
+
+.karbody {            
+  width: 50px;
+  height: 100px;
+  background-color: red;
+  border-radius: 10px;
+}
+
+
+.wheel {
+  position: absolute;
+  width: 10px;   
+  height: 20px;  
+  background-color: black;
+}
+
+
+.tl { top: 5px; left: 0; }
+.bl { bottom: 5px; left: 0; }
+
+
+.tr { top: 5px; right: 0; }
+.br { bottom: 5px; right: 0; }
+
